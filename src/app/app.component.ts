@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
 
    
 
-    this.titleService.setTitle("Loay Elden | Front-end Developer  | Software Engineer");
+    this.titleService.setTitle("Jessy Quinto | Full-stack Developer  | Software Engineer");
     this.metaService.addTags([
       { name: 'keywords', content: 'Frontend , Software Engineer, software, developer' },
       { name: 'description', content: 'As a software engineer with expertise in Frontend, I have a comprehensive understanding of Frontend web development. My strong foundation in JavaScript allows me to effectively work with front-end technologies such as Angular.' },
