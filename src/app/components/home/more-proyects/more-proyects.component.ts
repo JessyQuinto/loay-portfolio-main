@@ -14,8 +14,8 @@ export class MoreProyectsComponent implements OnInit {
       Title:'Quizz App',
       Description:'The Simple Quiz App is a user-friendly and straightforward application designed to offer a fun and interactive quiz experience. the quiz consists of multiple-choice questions, and users can select their answers from the provided options.',
       Technologies:['Html','Css','javaScript' , 'Jquery'],
-      ghLink:'https://github.com/loayeldin/quizz-app',
-      demoLink:'https://quizzzz-app-js.netlify.app/'
+      ghLink:'https://github.com/JessyQuinto',
+      demoLink:'https://github.com/JessyQuinto'
     },
 
 
@@ -24,8 +24,8 @@ export class MoreProyectsComponent implements OnInit {
       Title:'techivo',
       Description:'techivo site  (personal practicing on design)',
       Technologies:['Html','Css','Animation','Responsive'],
-      ghLink:'https://github.com/loayeldin/techivo',
-      demoLink:'https://techivo.netlify.app/'
+      ghLink:'https://github.com/JessyQuinto',
+      demoLink:'https://github.com/JessyQuinto'
     },
 
     {
@@ -33,8 +33,8 @@ export class MoreProyectsComponent implements OnInit {
       Title:'devolio',
       Description:'devolio site  (personal practicing on design)',
       Technologies:['Html','Css','Animation','Responsive'],
-      ghLink:'https://github.com/loayeldin/devolio',
-      demoLink:'https://devoliooo.netlify.app/'
+      ghLink:'https://github.com/JessyQuinto',
+      demoLink:'https://github.com/JessyQuinto'
     },
 
   ]
