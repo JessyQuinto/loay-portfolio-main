@@ -1,6 +1,7 @@
 {
   "name": "loay-portfolio",
   "version": "0.0.0",
+  "homepage": "http://JessyQuinto.github.io/loay-portfolio-main",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href /loay/ && ngh --dir=dist/loay-portfolio "
+    "build-gh": "ng build --prod --base-href /loay-portfolio-main/ && ngh --dir=dist/loay-portfolio-main",
+    "deploy": "ng build --prod --base-href /loay-portfolio-main/ && ngh --dir=dist/loay-portfolio-main"
   },
   "private": true,
   "dependencies": {
