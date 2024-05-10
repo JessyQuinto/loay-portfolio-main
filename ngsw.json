@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715131885769,
+  "timestamp": 1715318442505,
   "index": "/loay-portfolio-main/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/loay-portfolio-main/favicon.ico",
         "/loay-portfolio-main/index.html",
-        "/loay-portfolio-main/main.715b7b7bf861efde.js",
+        "/loay-portfolio-main/main.817bfc0572dd026c.js",
         "/loay-portfolio-main/manifest.webmanifest",
         "/loay-portfolio-main/polyfills.490a2f39cccbacee.js",
         "/loay-portfolio-main/runtime.74ec4c73a9ef4b03.js",
@@ -58,6 +58,7 @@
         "/loay-portfolio-main/SFMono-Semibold.849266397229adad.woff",
         "/loay-portfolio-main/SFMono-SemiboldItalic.0ef5133ede504d56.woff2",
         "/loay-portfolio-main/SFMono-SemiboldItalic.33cb8d6968ae9130.woff",
+        "/loay-portfolio-main/assets/cv/Hoja de Vida JESSY QUINTO.pdf",
         "/loay-portfolio-main/assets/cv/Loay-elden-gamal -resume.pdf",
         "/loay-portfolio-main/assets/cv/lastCv.pdf",
         "/loay-portfolio-main/assets/fonts/Calibre/Calibre-Light.ttf",
@@ -174,6 +175,7 @@
     "/loay-portfolio-main/SFMono-Semibold.849266397229adad.woff": "999e816498b39e99896d09cb18614e5bb700fa8e",
     "/loay-portfolio-main/SFMono-SemiboldItalic.0ef5133ede504d56.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "/loay-portfolio-main/SFMono-SemiboldItalic.33cb8d6968ae9130.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
+    "/loay-portfolio-main/assets/cv/Hoja de Vida JESSY QUINTO.pdf": "385a46002cd212cf9853bde665fc817b519d1fa3",
     "/loay-portfolio-main/assets/cv/Loay-elden-gamal -resume.pdf": "4bf2fe38102b5370e703d2506b2da13065fa1b79",
     "/loay-portfolio-main/assets/cv/lastCv.pdf": "4bae9d3f58841f4d036462b69352b9b233841ec7",
     "/loay-portfolio-main/assets/fonts/Calibre/Calibre-Light.ttf": "8eccfc3783b04d13dec5887a15c3e00fd28bef7c",
@@ -256,8 +258,8 @@
     "/loay-portfolio-main/fa-solid-900.d5b0a3566b352ee9.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
     "/loay-portfolio-main/fa-solid-900.e67670b0779338ff.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
     "/loay-portfolio-main/favicon.ico": "97c827d7b24e8fa8795e691c55f62129e3c29f6d",
-    "/loay-portfolio-main/index.html": "62cf95e6597c13c052cebf5601438f69446ccac9",
-    "/loay-portfolio-main/main.715b7b7bf861efde.js": "e2406616c19b6048627b8d5e15fa74e069243699",
+    "/loay-portfolio-main/index.html": "fecb3bd368e5f258e22b1fe19cf43cb404e51410",
+    "/loay-portfolio-main/main.817bfc0572dd026c.js": "1847ccab7987486fca020a27bcce0ec0ab706eec",
     "/loay-portfolio-main/manifest.webmanifest": "9baa151d44f31193283ded7acfc55c431e33b5f5",
     "/loay-portfolio-main/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/loay-portfolio-main/polyfills.490a2f39cccbacee.js": "a41b5654fc1b6cdae42fa47331cb2f9ee9b311a7",
